@@ -65,6 +65,6 @@ x3=EV(:,3);
 Lambda_1=EW(1,1);
 Lambda_2=EW(2,2);
 Lambda_3=EW(3,3);
-A*x1-Lambda_1*x1
-A*x2-Lambda_2*x2
-A*x3-Lambda_3*x3
+A*x1-Lambda_1*x1;
+A*x2-Lambda_2*x2;
+A*x3-Lambda_3*x3;
