@@ -1,4 +1,5 @@
 % coding:utf-8
+clear; clc;
 
 % Gegebene Variablen: 
 m1=0.02;
