@@ -28,3 +28,4 @@ v2=(mb*vb) / (mb+mk+mw)
 
 % Berechnung der Ergebnisse
 v3=2*v2
+%% Achtung! Gilt nur wenn die Ballgeschwindigkeit von b und c identisch sind! 
