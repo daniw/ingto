@@ -8,6 +8,7 @@ h=0.44;
 vb=19.6;
 g=9.81;
 alphagrad=30.6;
+t=0.14;
 
 % a
 
@@ -29,4 +30,11 @@ vsb=mb*vb/ms
 alpha=alphagrad/180*pi;
 
 % Berechnung der Ergebnisse
-sx=-vsb*cos(alpha)* (-vsb*sin(alpha) + sqrt(vsb^2*sin(alpha)^2+2*g*h))/g
+sx=-vsb*cos(alpha)*(-vsb*sin(alpha) + sqrt(vsb^2*sin(alpha)^2+2*g*h))/g
+
+% d
+
+% Zwischenwerte berechnen
+
+% Berechnung der Ergebnisse
+f=mb*vb/t
