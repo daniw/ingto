@@ -20,3 +20,11 @@ v1=(2*vb) / (1+(mk+mw)/(mb))
 % Zwischenwerte berechnen
 
 % Berechnung der Ergebnisse
+v2=(mb*vb) / (mb+mk+mw)
+
+% c
+
+% Zwischenwerte berechnen
+
+% Berechnung der Ergebnisse
+v3=2*v2
