@@ -32,3 +32,4 @@ e=k*s^2/2
 
 % Berechnung der Ergebnisse
 v1=sqrt(e2/m)
+v2=sqrt(e2/m)
