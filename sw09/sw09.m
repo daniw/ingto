@@ -1,3 +1,5 @@
+%% attestation sw09 by Daniel Winz
+
 %% 3.1
 clear; clc;
 
@@ -36,6 +38,7 @@ plot(t,x(:,1));
 
 
 %% 3.3
+clear; clc; 
 
 % Parameters
 alpha1=10;
