@@ -2,11 +2,11 @@
 clear; clc;
 
 % Gegebene Variablen: 
-mw=15;
+mw=18;
 mk=23;
-mb=0.8;
+mb=1.1;
 
-vb=15.9;
+vb=15.8;
 
 % a
 

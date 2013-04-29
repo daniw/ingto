@@ -2,10 +2,10 @@
 clear; clc;
 
 % Gegebene Variablen: 
-h=25;
+h=32;
 g=9.81;
 m=60;
-tb=0.006;
+tb=0.0053;
 
 % a
 

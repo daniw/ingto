@@ -2,13 +2,13 @@
 clear; clc;
 
 % Gegebene Variablen: 
-ms=67.8;
-mb=0.53;
-h=0.44;
-vb=19.6;
+ms=51.5;
+mb=0.5;
+h=0.67;
+vb=25.3;
 g=9.81;
-alphagrad=30.6;
-t=0.14;
+alphagrad=25.8;
+t=0.18;
 
 % a
 
