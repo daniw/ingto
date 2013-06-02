@@ -2,8 +2,8 @@
 clear; clc;
 
 % Gegebene Variablen: 
-l=2.03;
-m=0.56;
+l=1.64;
+m=0.54;
 g=9.81;
 
 % a

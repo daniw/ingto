@@ -2,10 +2,10 @@
 clear; clc;
 
 % Gegebene Variablen: 
-i=4.6e-5;
-a=95.9;
-b=95.9;
-c=1.18;
+i=5.2e-5;
+a=93.9;
+b=93.9;
+c=1.06;
 
 % a
 
